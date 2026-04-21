@@ -1,0 +1,40 @@
+header{
+    background-color: rgba(0, 0, 0, 0.243);
+    width: 1800px;
+    height: 120px;
+    padding: 2px;
+    margin-block-start: 0%;
+}
+#midasi{
+    color: aliceblue;
+    width: auto;
+    height: 30px;
+    padding: 0%;
+    margin-block-start: 0%;
+    font-size: 60px;
+}
+.Link{
+    background-color: aquamarine;
+    margin-right: 0%;
+    margin-left: 500px;
+    
+}
+.picture{
+    width: 800px;
+    height: 800px;
+}
+body{
+    background-color: rgb(79, 79, 79);
+    background-image: url("picture/square_penki-1.jpg")
+}
+h2{
+    color: white;
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.463);
+}
+h3{
+    color: white;
+    font-size: 40px;
+    background-color: rgba(0, 0, 0, 0.463);
+}
+
