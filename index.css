@@ -1,0 +1,159 @@
+header{
+    background-color: rgba(0, 0, 0, 0.243);
+    width: 1800px;
+    height: 100px;
+    padding: 2px;
+    margin-block-start: 0%;
+}
+
+#midasi{
+    color: aliceblue;
+    width: auto;
+    height: 30px;
+    padding: 0%;
+    margin-block-start: 0%;
+    font-size: 60px;
+}
+
+.Link{
+    background-color: aquamarine;
+    margin-right: 0%;
+    margin-left: 500px;
+    
+}
+
+body{
+    background-color: rgb(79, 79, 79);
+    background-image: url("picture/square_penki-1.jpg")
+}
+#hitokoto{
+    color: rgb(0, 0, 0);
+    table-layout: auto;
+    width: 1800px;
+    border: 10px;
+    border-color: black;
+}
+#inputField{
+    color: rgb(70, 37, 255);
+    table-layout: auto;
+    width: 1800px;
+    border: 10px;
+    border-color: black;
+}
+#joukyou{
+    color: rgb(0, 0, 0);
+    table-layout: auto;
+    width: 1800px;
+    border: 10px;
+    border-color: black;
+}
+th{
+    background-color: rgb(193, 196, 194) ;
+
+}
+td{
+    background-color: rgb(223, 223, 223);
+    height: 45px;
+    font-size: 30px;
+}
+#syokui1-0{
+    width: 200px;
+}
+#simei1-0{
+    width: 400px;
+}
+#naiyou1-0{
+    width: 1200px;
+}
+
+.syokui1{
+    text-align: center;
+}
+.simei1{
+    text-align: center;
+}
+.naiyou1{
+    text-align: left;
+}
+#syokui2-0{
+    width: 100px;
+}
+#syokui2{
+    width: 100px;
+}
+#simei2{
+    width: 200px;
+}
+#ikisaki2{
+    width: 300px;
+}
+#gyoumu2{
+    width: 1200px;
+}
+.syokui2{
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+}
+.simei2{
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+}
+.ikisaki2{
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+}
+.gyoumu2{
+    background-color: rgb(223, 223, 223);
+    text-align: left;
+}
+.t2syokui2{
+    background-color: rgb(206, 206, 206);
+    text-align: center;
+}
+.t2simei2{
+    background-color: rgb(206, 206, 206);
+    text-align: center;
+}
+.t2ikisaki2{
+    background-color: rgb(206, 206, 206);
+    text-align: center;
+}
+.t2gyoumu2{
+    background-color: rgb(206, 206, 206);
+    text-align: left;
+}
+#headNumber{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+#inputSyokui{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+#inputSimei{
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    text-align: left;
+}
+#inputIkisaki{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    text-align: left;
+}
+#inputGyoumu{
+    width: 1000px;
+    height: 50px;
+    font-size: 30px;
+    text-align: left;
+}
+#inputButton1{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
